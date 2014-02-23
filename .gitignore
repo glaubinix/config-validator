@@ -1,0 +1,7 @@
+#npm
+node_modules
+
+#ide
+.idea
+atlassian-ide-plugin.xml
+

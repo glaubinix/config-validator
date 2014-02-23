@@ -1,0 +1,17 @@
+{
+  "name": "config-validator",
+  "version": "0.0.0",
+  "description": "Validate your config file against the occurances in your project.",
+  "main": "index.js",
+  "author": "Stephan Vock",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "~2.5.0",
+    "precommit-hook": "~0.3.10"
+  },
+  "dependencies": {
+    "extend": "~1.2.1",
+    "diff": "~1.0.8",
+    "colors": "~0.6.2"
+  }
+}
