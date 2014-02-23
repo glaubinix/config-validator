@@ -7,7 +7,7 @@ This a WIP!
 
 # Usage
 
-node index.js path/to/config/file.json path/to/project/file # later path/to/project
+node index.js path/to/config/file.json path/to/project
 
 # license
 
