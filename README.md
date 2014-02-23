@@ -20,8 +20,6 @@ Will display all not used config params in green with ++ and all not defined but
 # Current limitations
 
 - It is currently only possible to detect occurrences of the dot object usages (e.g. config.some.value) but no dynamic access (e.g. config("value"]).
-- I have to solve the detection of the config require statement. Therefore the json property will currently appear in the diff.
-- Array stuff is still a bit weird and probably somehow broken :)
 
 # license
 
